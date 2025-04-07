@@ -94,3 +94,6 @@ Note: The customer passwords are hashed and stored in the database. You will not
 The password is 'rash' for almost all the customers,just in case if you want to login with the pre added customer. 
 
 
+//This comment is for testing http trigger for azure functions
+
+
